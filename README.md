@@ -70,4 +70,4 @@ This repository contains a collection of supervised learning projects. Each proj
 
 2. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/AravindReddy12-eng/CODSOFT.git
+   git clone [https://github.com/AravindReddy12-eng/CODSOFT.git](https://github.com/AravindReddy12-eng/beginner-machine-learning-projects.git)
